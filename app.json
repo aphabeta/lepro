@@ -1,13 +1,13 @@
 {
   "name": "Telegram Torrent Leecher",
-  "description": "A Telegram Torrent (and youtube-dl) Leecher based on Pyrogram. Powered by @MaxxBots",
-  "logo": "https://telegra.ph/file/101a7d52e02772152c6e3.jpg",
+  "description": "A Tel Leer based on Pyro",
+  "logo": "https://telegra.ph/file/0bfac85d27b954733f09d.jpg",
   "keywords": [
-    "telegram"
+    "tele"
   ],
-  "repository": "https://github.com/MaxxRider/Leech-Pro",
-  "success_url": "https://t.me/MaxxBotChat",
-  "website": "https://github.com/MaxxRider/Leech-Pro",
+  "repository": "https://github.com/aphabeta/lepro",
+  "success_url": "https://t.me/ADrama_Lovers",
+  "website": "https://github.com/aphabeta/lepro",
   "env": {
     "ENV": {
       "description": "Setting this to ANYTHING will enable webhooks when in env mode",
@@ -53,7 +53,7 @@
       "required": false
     },
     "MAX_TIME_TO_WAIT_FOR_TORRENTS_TO_START": {
-      "description": "should be an integer. Number of seconds to wait before cancelling a torrent.",
+      "description": "should be an integer. Number of seconds to wait before cancelling a toent.",
       "required": false
     },
     "FINISHED_PROGRESS_STR": {
