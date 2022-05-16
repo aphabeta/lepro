@@ -119,7 +119,23 @@
     "CUSTOM_FILE_NAME": {
       "description": "fill with name u want to prefix the file name like ur channel username🙊, keep empty for do nothing, but add to ur config vars even without input.",
       "required": false
-    }
+    },
+    "LEECH_UNZIP_COMMAND": {
+    "description":"unzip command",
+    "required": false
+    },
+  "RENAME_COMMAND": {
+    "description":"rename",
+    "required": false
+    },
+  "RENEWME_COMMAND": {
+    "description":"renew",
+    "required": false
+    },
+  "STATUS_COMMAND": {
+    "description":"status",
+    "required": false
+   }
   },
   "stack": "container"
 }
